@@ -1,0 +1,6 @@
+[submodule "themes/hugo-ficurinia"]
+	path = themes/hugo-ficurinia
+	url = https://gitlab.com/gabmus/hugo-ficurinia
+[submodule "static/bestarch"]
+	path = static/bestarch
+	url = https://gitlab.com/gabmus/bestarch
