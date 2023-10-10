@@ -46,11 +46,6 @@ summaryLength = 30
         startLevel = 1
 
 [menu]
-    [[menu.main]]
-        identifier = "archguide"
-        name = "Arch guide"
-        url = "/archguide"
-        weight = 99
     [[menu.icons]]
         identifier = "github"
         name = "Github"
