@@ -30,7 +30,7 @@ summaryLength = 30
 
     enableRelatedArticles = true
     relatedArticlesNum = 2 
-    forceRedirect = true
+    forceRedirect = false
 
 [markup]
     [markup.highlight]
